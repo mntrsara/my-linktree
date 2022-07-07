@@ -13,7 +13,7 @@
 ## Sobre o projeto 
 
 - Este é um projeto de código aberto que serve como uma alternativa gratuita ao site Linktree.
-- [ Demonstração ](https://mntrsara.github.io/linktree/)
+- [ Demonstração ](https://mntrsara.github.io/my-linktree/)
 
 ## Começando 
 
